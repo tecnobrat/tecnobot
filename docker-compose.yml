@@ -1,0 +1,8 @@
+app:
+  build: .
+  env_file: .env
+  tty: true
+  ports:
+    - "4000"
+  volumes:
+    - '.:/app'

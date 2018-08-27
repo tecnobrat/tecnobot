@@ -1,0 +1,3 @@
+%{
+  "exirc": {:git, "https://github.com/bitwalker/exirc.git", "d56e1d93ef83d350606e489021a276f8a49e9480", []},
+}
